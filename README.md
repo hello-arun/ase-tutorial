@@ -1,10 +1,9 @@
-# pytorch-gpu-data-science-project
+# ase-tutorial
 
-Repository containing scaffolding for a Python 3-based data science project with GPU acceleration using the [PyTorch](https://pytorch.org/) ecosystem. 
+repo based based on pytorch-gpu-data-science-project
+## create conda env
 
-## Creating a new project from this template
-
-Simply follow the [instructions](https://help.github.com/en/articles/creating-a-repository-from-a-template) to create a new project repository from this template.
+conda env create --prefix ./env --file ./environment.yml --force
 
 ## Project organization
 
