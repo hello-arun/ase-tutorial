@@ -9,7 +9,6 @@ dependencies:
   - numpy
   - scipy
   - pandas
-  - ase
   - matplotlib
   - pip
   - python=3.9
@@ -18,6 +17,8 @@ dependencies:
   - jupyterlab-git
   - jupyterlab-nvdashboard
   - jupyterlab-lsp
+  - ase
+  - shapely
   # - numba
   # - bokeh
   # - captum
